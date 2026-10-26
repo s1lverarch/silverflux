@@ -42,6 +42,8 @@
 
 </div>
 
+<img width="1000" height="560" alt="demo" src="https://github.com/user-attachments/assets/c98a1fa3-3830-40ba-9d10-21bc152fa1db" />
+
 Record your own with [asciinema](https://asciinema.org/) and convert with [agg](https://github.com/asciinema/agg):
 
 ```bash
